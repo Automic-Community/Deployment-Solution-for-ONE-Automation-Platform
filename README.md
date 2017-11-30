@@ -11,6 +11,16 @@ Contents of Solution Package:
 						
 								*BPA-best-blu_E-Mail.zip
 								
+								*b4A-Services.png
+								
+								*best4Automic-Dashboard.png
+								
+								*Deployment:-Create-Package.png
+								
+								*Deployment:-Install-Package-1.png
+								
+								*Deployment:-Initialize-Package.png
+								
 								*Deployment:-Install-Package-2.png
 								
 						
@@ -27,7 +37,7 @@ Documenation and Instructions
 <li>Package-Erstellung</li>
 <li>Installation von Packages inklusive Post-Deployment-Arbeiten</li>
 <li>Registrierung von Actions</li>
-<li>Registirerung von Vorlagen (Templates)</li>
+<li>Registrierung von Vorlagen (Templates)</li>
 </ul>
 <p>Die best4Automic Deployment-Solution basiert auf b4A Packages, die sich an die Struktur der Automic Action Packs anlehnen k&ouml;nnen. In der Standard-Vorkonfiguration wird die Struktur der Action Packs ber&uuml;cksichtigt, so dass Kunden, die bereits Action Packs nutzen, sofort starten k&ouml;nnen.</p>
 
